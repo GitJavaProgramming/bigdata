@@ -9,5 +9,8 @@
         <module name="hadoop" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="utils" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
