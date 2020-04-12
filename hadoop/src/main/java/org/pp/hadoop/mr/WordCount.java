@@ -1,4 +1,4 @@
-package org.pp.hadoop.map;
+package org.pp.hadoop.mr;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

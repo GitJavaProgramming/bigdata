@@ -13,7 +13,10 @@
 ### NoSQL HBase 云数据库
     HBase是稀疏、多维（相对关系数据库非简单二维）、持久化存储的映射表
     表、行、列族、列限定符（定位列）、单元格、时间戳    
-
+## 数据处理
+    MapReduce map reduce
+    HiveQL
+    Impala
 
 
 # 参考资料
